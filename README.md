@@ -16,6 +16,7 @@ public class Main {
 }
 ```
 __//__ merupakan komentar sehingga tidak mempengaruhi dalam eksekusi kode.
-**public class Main** merupakan deklarasi class dengan nama 'Main' dan 'public' menandakan bahwa fungsi ini dapat di akses secara publik.
-**public static void main(String[] args)** merupakan titik masuk program Java.
-**System.out.print("Hello World");** merupakan fungsi untuk menampilkan output berupa teks "Hello World".
+
+__public class Main__ merupakan deklarasi class dengan nama 'Main' dan 'public' menandakan bahwa fungsi ini dapat di akses secara publik.
+__public static void main(String[] args)__ merupakan titik masuk program Java.
+__System.out.print("Hello World");__ merupakan fungsi untuk menampilkan output berupa teks "Hello World".
