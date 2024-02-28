@@ -19,6 +19,6 @@ public class Main {
 
 ``public class Main`` merupakan deklarasi class dengan nama 'Main' dan 'public' menandakan bahwa fungsi ini dapat di akses secara publik.
 
-``public static void main(String[] args)`` merupakan titik masuk program Java.
+``public static void main(String[] args)`` merupakan titik awal eksekusi dalam program Java.
 
-``System.out.print("Hello World");`` merupakan fungsi untuk menampilkan output berupa teks "Hello World".
+``System.out.print("Hello World");`` merupakan perintah untuk menampilkan output berupa teks "Hello World".
